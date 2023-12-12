@@ -1,4 +1,4 @@
-@dos-attack-scenario
+@cp-dos-attack
 
 Feature: DDoS_Attack
 
